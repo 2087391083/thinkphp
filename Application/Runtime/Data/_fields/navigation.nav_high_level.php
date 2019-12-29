@@ -1,0 +1,1 @@
+a:7:{i:0;s:2:"id";i:1;s:9:"high_name";i:2;s:10:"is_display";i:3;s:6:"layout";i:4;s:4:"sort";s:3:"_pk";s:2:"id";s:5:"_type";a:5:{s:2:"id";s:6:"int(8)";s:9:"high_name";s:9:"char(255)";s:10:"is_display";s:10:"tinyint(1)";s:6:"layout";s:9:"char(100)";s:4:"sort";s:6:"int(8)";}}
